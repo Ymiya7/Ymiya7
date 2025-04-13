@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ymiya7
 - 👀 I’m interested in coding, history, basketball...
-- 🌱 I’m currently learning c/c++ 
+- 🌱 I’m currently learning c/c++ python
 - 💞️ I’m looking to collaborate on how to make money passively
 - 📫 contact email ymiyan007@gmail.com
 - 😄 Pronouns: ...
